@@ -1,5 +1,15 @@
 # Final_Project2
 Contains new data, with shapefiles unprojected (GCS_WGS_1984)
+
+## Goal
+
+GES 778 Final Project The goal is to be able to display this project on my website at nohemivoglozin.wix.com/nohemi-voglozin It will be about the genetic diversity of rice varieties in two ecogeographic regions in BENIN, West Africa, and how that genetic diversity is correlated:
+
+- to the management and decisions that farmers make on their fields on a daily basis, and
+- to environmental variables such as rainall, elevation, temperature, etc. 
+
+It will also display some touristic characteristics of the country and some points of interests that are definitely worth checking out while visiting or travelling through the country.
+
 ### Documentation
 
 * Attribution 
@@ -12,7 +22,7 @@ Contains new data, with shapefiles unprojected (GCS_WGS_1984)
     * The shapefiles were modified in ArcMAP 10.3 to add 2 fields to hold the links for the images and the urls for the "more info"
     * Most of the pictures are personal pictures acquired throughout my studies and my time in the field, but some pictures like the logo of the 2 parks were taken from the internet. 
     
-### Final Project Final Version
+#### Final Project Final Version
 
 The project ended up being more of a touristic map of BENIN. The map is an overlay of 9 different layers. The map shows national parks, cynegetic zones, the 12 departments of the country, but also some data about my doctoral research such as the communes or subdivisions in the North and the South of the country as well as the different villages in which I conducted my doctoral field research. 
 For more information on my doctoral research, please visit: http://nohemivoglozin.wixsite.com/nohemi-voglozin/projects.
